@@ -1,8 +1,8 @@
 # bsan6070 - Introduction to Machine Learning
 ## Computer Assignments
-###Should you have questions or issues accessing any documents please contact me via jamie.meugniot@lmu.edu or via Teams. 
+### Should you have questions or issues accessing any documents please contact me via jamie.meugniot@lmu.edu or via Teams. 
 
-###CA01 Assignment
+### CA01 Assignment
 **India Air Pollution Exploratory Data Analysis**
 
 Exploratory data analysis was conducted to further understand the air quality conditions in India by using India Air Quality Data downloaded from Kaggle.com. 
@@ -29,6 +29,7 @@ The dataset includes the following 13 columns:
 4. location_monitoring_agency
 
 **Downloading & Using the Data**
+
 Data file saved as 'india_data.csv'
 If the code yeilds an error when reading it try downloading the file, open in excel, and resave as a CSV file.
 To avoid an upload error I saved the data file in excel as a CSV UTF 8(comma delimited) file.
