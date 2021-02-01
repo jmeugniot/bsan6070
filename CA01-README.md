@@ -1,6 +1,6 @@
 # bsan6070 - Introduction to Machine Learning
 ## Computer Assignments
-### Should you have questions or issues accessing any documents please contact me via jamie.meugniot@lmu.edu or via Teams. 
+#### Should you have questions or issues accessing any documents please contact me via email at jamie.meugniot@lmu.edu or via Teams. 
 
 ### CA01 Assignment
 **India Air Pollution Exploratory Data Analysis**
