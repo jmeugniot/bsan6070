@@ -5,7 +5,7 @@
 ### CA01 Assignment
 **India Air Pollution Exploratory Data Analysis**
 
-Exploratory data analysis was conducted to further understand the air quality conditions in India by using India Air Quality Data downloaded from Kaggle.com. 
+Exploratory data analysis was conducted to further understand the air quality conditions in India by using India Air Quality Data downloaded from Kaggle.com via the following link: https://www.kaggle.com/shrutibhargava94/india-air-quality-data
 
 The dataset includes the following 13 columns: 
 1. stn_code: Station Code
