@@ -20,6 +20,8 @@ Packages to import:
 
 **Downloading & Accessing the Data**
 
+Please find the zip file titled 'CA02_Data' to download the data files.
+
 Download data and save in your desired google colab folder. **Note the path to these folders as you will need it when reading the data in later**
 
 In order to access the data you have just saved to your google colab folder you need to add the following code before running the program. If you do not import the drive you will get an error saying that the file could not be found given the path you gave. 
