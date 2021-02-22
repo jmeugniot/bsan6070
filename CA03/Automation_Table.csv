@@ -1,0 +1,9 @@
+Split ,Min_Sample_Split,Min_ Sample_Leaf,Max_Depth,Accuracy,Recall,Precision,F1_Score
+entropy,2,5,3,,,,
+entropy,5,50,6,,,,
+entropy,3,100,9,,,,
+entropy,2,200,15,,,,
+gini,2,5,3,,,,
+gini,5,50,6,,,,
+gini,3,200,10,,,,
+gini,2,200,15,,,,
