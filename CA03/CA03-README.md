@@ -5,11 +5,13 @@ ________________________________________________________________________________
 
 ### CA03 Assignment - Decision Tree Algorithm
 
-Files in CA03:
+The assignment includes 2 data files for upload: 
+1. census_data.csv 
+2. Automation_Table.csv
 
-    The assignment includes 2 data files for upload: 
-    1. census_data.csv 
-    2. Automation_Table.csv
+Other CA03 Files:
+1. CAO3_Questions.docx --> Answers to question set
+2. Tree Tuning Cases.xlsx --> Output table for different hyperparameter testing
 
 **Downloading & Accessing the Data**
 
