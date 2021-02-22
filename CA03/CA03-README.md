@@ -13,6 +13,10 @@ Other CA03 Files:
 1. CAO3_Questions.docx --> Answers to question set
 2. Tree Tuning Cases.xlsx --> Output table for different hyperparameter testing
 
+#### Opening Notebook
+
+The google colab notebook has been set to open for anyone with the link. You also have the ability to edit the notebook. Should you see errors in code or have suggestions for optimization, please create a copy of the notebook so the original stays intact. 
+
 #### Downloading & Accessing the Data
 
 Please find the data file titled 'census_data.csv' to download the data files.
