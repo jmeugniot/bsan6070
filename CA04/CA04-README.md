@@ -8,8 +8,9 @@ ________________________________________________________________________________
 The assignment includes 1 data file for upload: 
 1. census_data.csv 
 
-Other CA03 Files:
-1. CAO4_Questions.docx --> Assignment Instructions given
+Other CA04 Files:
+1. CAO4_Ensemble_Models_Instructions.pdf --> Assignment Instructions
+2. CA04_Answers --> Answers to assignment questions
 
 
 #### Opening Notebook
