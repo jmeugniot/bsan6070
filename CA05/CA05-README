@@ -16,16 +16,14 @@ The google colab notebook has been set to open for anyone with the link. You als
 
 Please find the data file titled 'cvd_data.csv' to download the data files.
 
-Download data and save in your desired google colab folder. **Note the path to these folders as you will need it when reading the data in later**
-
-In order to access the data you have just saved to your google colab folder you need to add the following code before running the program. If you do not import the drive you will get an error saying that the file could not be found given the path you gave. Run this code and click on the link that appears. Approve google drive to access your folders and copy the access code it gives you back into the colab file and enter.
+Import the google drive before running any of the other code. 
 
     from google.colab import drive
     drive.mount('/content/drive')
 
-When reading in your data files from your selected google colab folder when downloaded please make adjustments to the file path as needed to access your selected folder. My folder paths are as follows: 
+Read in the data file via the link. Below is the code that you will find in the colab notebook. 
 
-    census_df = "/content/drive/My Drive/MSBA_Colab_2020/ML_Algorithms/CA04/Data/census_data.csv"
+df_cvd = pd.read_csv('https://github.com/ArinB/CA05-B-Logistic-Regression/raw/master/cvd_data.csv')
    
 **Code Comments**
 
