@@ -4,6 +4,7 @@
 _________________________________________________________________________________________________________________________________________________________________________________
 
 ### CA06 Assignment - K-Nearest Neighbor 
+This assignment is looking for movie recommendations based on the selection of another movie using the K-Nearest Neighbor Algorithm.
 
 The assignment includes 1 data file.
 No data download necessary. Below is the code that you will find in the colab notebook that will connect to the needed dataset. 
